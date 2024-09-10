@@ -1,0 +1,19 @@
+.slider-container{
+    width: 80%;           /* Adjust the width as per your requirement */
+    margin: 50px auto;    /* Center the slider */
+    overflow: hidden; 
+    max-height: 100vh;
+   
+    
+}
+
+.p6 img{
+    width: 100%;           /* Ensure the images take full width */
+    border-radius: 10px;
+    object-fit: cover; 
+    max-height: 100vh;  
+      
+     
+}
+
+
